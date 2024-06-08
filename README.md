@@ -16,7 +16,7 @@ BraTS2018 dataset has 285 cases for training/validation (210 gliomas with high g
 
 The data can be requested from [here](https://www.kaggle.com/datasets/sanglequang/brats2018).
 
-The data path can be changed in `datalist/BraTS18/`. There are 4 files in the folder: `BraTS18_train.csv` and `BraTS18_val.csv` for hyper-params tuning; `BraTS18_train_all.csv` for fixed iteration training with all data; and `BraTS18_test.csv` for online evaluation at [here](https://ipp.cbica.upenn.edu/).
+The data path can be changed in `datalist/BraTS18/`.
 
 ## Model Training
 
