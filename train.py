@@ -19,7 +19,7 @@ import loss_Dual as loss
 from engine import Engine
 from math import ceil
 
-from DualNet_SoftLCKD import conv3x3x3
+from DualNet import conv3x3x3
 
 start = timeit.default_timer()
 kdLoss_wt = 0.1
