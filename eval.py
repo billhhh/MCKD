@@ -7,7 +7,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch.utils import data
-from DualNet_SoftLCKD import DualNet_SoftLCKD as DualNet
+from DualNet import DualNet
 from BraTSDataSet import BraTSEvalDataSet
 import os
 from math import ceil
